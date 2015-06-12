@@ -1,3 +1,8 @@
 makasih mas atas bantuannya
+<<<<<<< HEAD
 
 gini mas???
+=======
+Agam Was Here
+>>>>>>> 98ccde7a742f16297aef17ced90cde1cb174ac8e
+Gilang Was Here
